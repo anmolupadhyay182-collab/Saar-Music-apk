@@ -1,0 +1,10 @@
+# User-agent directives for Saar Music Website
+User-agent: *
+Allow: /
+
+# Directives for downloads folder (Allow APK download crawling)
+Allow: /downloads/
+
+# Sitemap Location
+# EDITABLE: Host hone ke baad yahan apni final website domain URL replace karein
+Sitemap: https://saarmusic.example.com/sitemap.xml
