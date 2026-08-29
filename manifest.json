@@ -1,7 +1,7 @@
 {
-  "name": "Saar Music – Premium Music & Ringtone App",
+  "name": "Saar Music – Free & Premium Music App",
   "short_name": "Saar Music",
-  "description": "Download Saar Music, a modern and premium Android music and ringtone experience created by Anmol Upadhyay.",
+  "description": "Download Saar Music, a free and ad-free music and ringtone experience with premium UI, premium themes, trending music, smart search, favorites, downloads and more. Created by Anmol Upadhyay.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#090510",
