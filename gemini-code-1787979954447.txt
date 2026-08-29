@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /
-
-Allow: /downloads/
-
-Sitemap: https://saarmusic.netlify.app/sitemap.xml
